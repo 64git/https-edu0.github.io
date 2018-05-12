@@ -1,2 +1,2 @@
-# https:///edu0.github.io/index.html
+# https:///edu0.github.io/
 my website created for a class final
